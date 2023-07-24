@@ -32,7 +32,7 @@ body {
 .logo {
     border-radius: 50%;
     text-align: center;
-    width: 60%;
+    width: 35%; 
     margin: 0px 0px 10px 0px;
     box-shadow: -3px 3px 0px 1px rgba(0, 0, 0, 1.5);
 
@@ -40,7 +40,7 @@ body {
 
 .ig {
     text-align: center;
-    font-size: 25px;
+    font-size: 21px;
 
 }
 
@@ -63,7 +63,7 @@ svg {
 
 
 .descripcion p {
-    font-size: 27px;
+    font-size: 17px;
     text-align: center;
 }
 
@@ -81,9 +81,9 @@ svg {
     font-family: 'Source Code Pro', monospace;
     transition: black 0.5s ease-in 0.3s;
     box-shadow: -3px 3px 0px 1px rgba(0, 0, 0, 1.5);
-    width: 30%;
-    height: 45px;
-    font-size: 23px;
+    width: 24%;
+    height: 36px;
+    font-size: 22px;
     background-color: #f3f3f3;
     border: 2px black solid;
     list-style: none;
