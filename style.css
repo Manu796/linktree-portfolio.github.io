@@ -11,6 +11,7 @@ body {
     flex-direction: column;
     width: 100vw;
     height: 100vh;
+    background-color: #ffca41;
 }
 
 .container {
@@ -32,7 +33,7 @@ body {
 .logo {
     border-radius: 50%;
     text-align: center;
-    width: 35%; 
+    width: 180px; 
     margin: 0px 0px 10px 0px;
     box-shadow: -3px 3px 0px 1px rgba(0, 0, 0, 1.5);
 
@@ -40,12 +41,12 @@ body {
 
 .ig {
     text-align: center;
-    font-size: 21px;
+    font-size: 15px;
 
 }
 
 .redes {
-    font-size: 35px;
+    font-size: 25px;
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -80,9 +81,9 @@ svg {
     font-family: 'Source Code Pro', monospace;
     transition: black 0.5s ease-in 0.3s;
     box-shadow: -3px 3px 0px 1px rgba(0, 0, 0, 1.5);
-    width: 35%;
+    width: 32%;
     height: 36px;
-    font-size: 23px;
+    font-size: 20px;
     background-color: #f3f3f3;
     border: 2px black solid;
     list-style: none;
